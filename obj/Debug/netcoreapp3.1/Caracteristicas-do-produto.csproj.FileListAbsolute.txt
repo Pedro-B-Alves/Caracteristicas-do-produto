@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\bin\Debug\netcoreapp3.1\Caracteristicas-do-produto.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\bin\Debug\netcoreapp3.1\Caracteristicas-do-produto.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\bin\Debug\netcoreapp3.1\Caracteristicas-do-produto.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\bin\Debug\netcoreapp3.1\Caracteristicas-do-produto.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\bin\Debug\netcoreapp3.1\Caracteristicas-do-produto.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\bin\Debug\netcoreapp3.1\Caracteristicas-do-produto.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Caracteristicas-do-produto\obj\Debug\netcoreapp3.1\Caracteristicas-do-produto.genruntimeconfig.cache
